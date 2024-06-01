@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Dionysus-PR-BackEnd.iml" filepath="$PROJECT_DIR$/.idea/Dionysus-PR-BackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dionysus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dionysus.main.iml" />
     </modules>
   </component>
 </project>
